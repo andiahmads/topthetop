@@ -1,0 +1,5 @@
+.DS_Store
+*.exe
+log-monitoring
+assets/
+servers.yaml
