@@ -2,6 +2,8 @@
 
 A system resource monitor written in Go with Bubble Tea, inspired by btop.
 
+![btop-go screenshot](docs/screenshot.png)
+
 ## Features
 
 - **CPU Monitor**: Total and per-core CPU usage
